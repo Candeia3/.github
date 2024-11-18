@@ -16,7 +16,11 @@ Desenvolvido por estudantes de **Análise e Desenvolvimento de Sistemas** na [FI
 ---
 
 ## 💡 O que é a Candeia?  
-A **Candeia** é uma plataforma inovadora que transforma o óleo de cozinha usado em biodiesel, promovendo o uso sustentável de recursos. A plataforma conecta pontos de coleta e oferece incentivos para a conscientização sobre o impacto do descarte correto e a importância das energias limpas.  
+A **Candeia** é uma plataforma que transforma o óleo de cozinha usado em biodiesel, promovendo o uso sustentável de recursos, oferecendo:
+- ♻️ **Pontos de coleta próximos**: Localize facilmente os pontos para descarte responsável do óleo.
+- 💸 **Recompensas ecológicas**: Descontos em empresas parceiras para incentivar a participação.
+- 📚 **Conscientização**: Informações educativas sobre o impacto do consumo energético e a importância das energias renováveis.
+- 🌍 **Sustentabilidade**: Incentivo à produção de biodiesel, uma alternativa limpa e renovável.
 
 ---
 
