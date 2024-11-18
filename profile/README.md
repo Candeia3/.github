@@ -1,7 +1,7 @@
 # Candeia 🪔 
 ### "Iluminando o caminho para um futuro sustentável!"
 
-Bem-vindo ao repositório oficial do **Candeia**, uma solução inovadora para transformar o óleo de cozinha usado em biodiesel e promover o uso sustentável de recursos. Conectamos pontos de coleta e incentivamos a conscientização sobre a importância das energias limpas.
+Bem-vindo ao repositório oficial da **Candeia**, uma solução inovadora para transformar o óleo de cozinha usado em biodiesel e promover o uso sustentável de recursos. Conectamos pontos de coleta e incentivamos a conscientização sobre a importância das energias limpas.
 
 ---
 
@@ -15,8 +15,8 @@ Desenvolvido por estudantes de **Análise e Desenvolvimento de Sistemas** na [FI
 
 ---
 
-## 💡 O que é o Candeia?  
-O **Candeia** é uma plataforma inovadora que transforma o óleo de cozinha usado em biodiesel, promovendo o uso sustentável de recursos. A plataforma conecta pontos de coleta e oferece incentivos para a conscientização sobre o impacto do descarte correto e a importância das energias limpas.  
+## 💡 O que é a Candeia?  
+A **Candeia** é uma plataforma inovadora que transforma o óleo de cozinha usado em biodiesel, promovendo o uso sustentável de recursos. A plataforma conecta pontos de coleta e oferece incentivos para a conscientização sobre o impacto do descarte correto e a importância das energias limpas.  
 
 ---
 
