@@ -28,4 +28,7 @@ A **Candeia** é uma plataforma inovadora que transforma o óleo de cozinha usad
 
 ---
 
+### Conheça também: [TrenSpot](https://github.com/TrenSpot)
+<a href="https://github.com/TrenSpot" target="_blank"><img src="https://avatars.githubusercontent.com/u/181512128?s=200&v=4" alt="TreSpot" height="75" style="border-radius: 25px;"></a>
+
 ## **Candeia - Iluminando o caminho para um futuro sustentável!** 🪔
